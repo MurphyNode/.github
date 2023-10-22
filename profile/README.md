@@ -7,7 +7,7 @@
 
 </div> 
 
-## | [Website]() |
-## | [Twitter]() | [Discord]() | [Telegram]() | 
+## | [Website](https://linktr.ee/@murphynodeteam) |
+## | [Twitter](https://twitter.com/Murphy_Node) | [Discord](https://discord.gg/f8547mdr) | [Telegram]() | 
 
 </div>
