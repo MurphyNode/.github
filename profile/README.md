@@ -5,13 +5,15 @@
 
 </div>
 
-### <div align="center">We Are Murphy Node&Validator </div>
+# <div align="center">We Are Murphy Node&Validator </div>
 We are a Vietnam blockchain validator and node! with huge passionate for blockchain technology and crypto currency !
 
 ##  Our System
 
 **CPU**: 
+
 **RAM**:
+
 **GPU**: 
 
 ## Projects we have been participating in
@@ -23,8 +25,12 @@ We are a Vietnam blockchain validator and node! with huge passionate for blockch
 </div>
 
 ## Contact
+
 Twitter: https://twitter.com/Murphy_Node
+
 Telegram: https://t.me/muphynode
+
 Discord: https://discord.gg/hrFtFtFzad
+
 Mail: murphynodeteam@gmail.com
 
